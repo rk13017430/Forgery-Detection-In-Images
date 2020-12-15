@@ -5,8 +5,9 @@ The forgery detection tool contained in this repository currently features foren
 - Copy-move forgeries
 - CFA artifacts
 - Noise variance inconsitencies
-
-Please read our paper for a detailed explanation of our motivation and research when developing this tool.
+for noise and double compression run forgery.py file
+for Api run forgeapi.py file by installing flask
+$ pip3 install flask
 
 ## To Run:
 Place any images that you wish to analyze into the **images** directory.
